@@ -9,7 +9,7 @@ function Footer() {
       <div className="container">
         <div className="upper-text-container">
           <p>
-            1. Trade In: Trade‑in values vary. iPhone 11 and iPhone 11 Pro
+            1. Trade In: Trade‑in values vary a lot. iPhone 11 and iPhone 11 Pro
             promotional pricing is after trade‑in of iPhone 8 Plus and iPhone X
             in good condition. Additional trade‑in values require purchase of a
             new iPhone, subject to availability and limits. Must be at least 18.
